@@ -4,7 +4,7 @@ Traiteur restaurateur ambulant à La Fresnaie près de St Malo
 
 ## Site web
 
-Visitez [notre site web](lagalettedevicame.github.io) et découvrez notre carte.
+Visitez [notre site web](https://lagalettedevicame.github.io) et découvrez notre carte.
 
 ## Infos
 
